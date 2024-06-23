@@ -33,5 +33,5 @@ npm install
 start development server
 
 ```sh
-npm run dve
+npm run dev
 ```
